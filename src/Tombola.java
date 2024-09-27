@@ -41,6 +41,7 @@ public class Tombola extends Thread {
             }
             disponibiliVirtuale--;
             return estratto;
+
         }
     }
     public void run() {

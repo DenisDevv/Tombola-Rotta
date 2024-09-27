@@ -6,4 +6,5 @@ public class Main
         tomb.start();
         tomb2.start();
     }
+
 }
